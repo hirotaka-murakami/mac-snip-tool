@@ -15,6 +15,7 @@ GitHub Release で配布する `Snipmac_and_start_app.zip` を使って起動で
 解凍後、以下のファイルがあるか確認してください
 
 - `Snipmac.app`
+- `nipmac.app_使い方と初回設定.md`
 
 ## 3. 初回起動で必要な macOS 設定
 
@@ -25,12 +26,9 @@ GitHub Release で配布する `Snipmac_and_start_app.zip` を使って起動で
 ### 4. 起動する
 ターミナルで上記 2 ファイルがあるフォルダに移動し、以下を実行してください。
 
-
-
 ## 基本的な使い方
 
-- `start_app.sh` 実行後、`Snipmac.app` が起動します。
-- `Snipmac.app` は直接起動でも動作します。
+- `Snipmac.app` を起動します。
 - 画面上でキャプチャ範囲を選択してスニップできます。
 - 初回起動時に macOS の権限（画面収録など）が必要な場合は許可してください。
 
