@@ -4,7 +4,6 @@
 ## GitHub Release 版の使い方
 
 GitHub Release で配布する `Snipmac_and_start_app.zip` を使って起動できます。
-
 ### ダウンロードURL
 - Release ページ: `https://github.com/hirotaka-murakami/mac-snip-tool/releases/tag/v1.0`
 - 直接ダウンロード (ZIP): `https://github.com/hirotaka-murakami/mac-snip-tool/archive/refs/tags/v1.0.zip`
@@ -44,3 +43,4 @@ GitHub Release で配布する `Snipmac_and_start_app.zip` を使って起動で
 3. `ログイン時に開く` に `Snipmac.app` を追加する
 
 次回ログイン以降、`Snipmac.app` が自動で起動します。
+
