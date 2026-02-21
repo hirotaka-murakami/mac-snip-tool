@@ -23,9 +23,6 @@ GitHub Release で配布する `Snipmac_and_start_app.zip` を使って起動で
 
 - `Snipmac` を ON
 
-### 4. 起動する
-ターミナルで上記 2 ファイルがあるフォルダに移動し、以下を実行してください。
-
 ## 基本的な使い方
 
 - `Snipmac.app` を起動します。
