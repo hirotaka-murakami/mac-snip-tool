@@ -8,7 +8,7 @@
 解凍後、以下のファイルがあるか確認してください
 
 - `Snipmac.app`
-- `nipmac.app_使い方と初回設定.md`
+- `snipmac.app_使い方と初回設定.md`
 
 ## 3. 初回起動で必要な macOS 設定
 
