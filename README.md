@@ -1,15 +1,8 @@
 # mac-snip-tool
-マック用の簡易スニッピングツール v1.0
-
-## GitHub Release 版の使い方
-
-GitHub Release で配布する `Snipmac_and_start_app.zip` を使って起動できます。
-### ダウンロードURL
-- Release ページ: `https://github.com/hirotaka-murakami/mac-snip-tool/releases/tag/v1.0`
-- 直接ダウンロード (ZIP): `https://github.com/hirotaka-murakami/mac-snip-tool/archive/refs/tags/v1.0.zip`
+マック用の簡易スニッピングツール v1.1
 
 ### 1. ZIP を解凍する
-- `Snipmac_and_start_app.zip` をダウンロードして解凍してください。
+- `Snipmac_app_and_guid2.zip` をダウンロードして解凍してください。
 
 ### 2. ファイル配置を確認する
 解凍後、以下のファイルがあるか確認してください
